@@ -1,0 +1,15 @@
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/bin/Debug/net5.0/Kalkulacka.deps.json
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/bin/Debug/net5.0/Kalkulacka.runtimeconfig.json
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/bin/Debug/net5.0/Kalkulacka.runtimeconfig.dev.json
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/bin/Debug/net5.0/Kalkulacka.dll
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/bin/Debug/net5.0/ref/Kalkulacka.dll
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/bin/Debug/net5.0/Kalkulacka.pdb
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.csproj.AssemblyReference.cache
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.AssemblyInfoInputs.cache
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.AssemblyInfo.cs
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.csproj.CoreCompileInputs.cache
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.dll
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/ref/Kalkulacka.dll
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.pdb
+/Users/jakubgrund/Desktop/c#/Kalkulacka/Kalkulacka/obj/Debug/net5.0/Kalkulacka.genruntimeconfig.cache
